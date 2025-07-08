@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-chatbot-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.1.0",
+    "openai": "^5.8.3",
+    "puppeteer": "^24.12.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.31.0"
+  }
+}
